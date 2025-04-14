@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Enhanced E-commerce Site</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <header>
+      <div class="logo">ShopLogo</div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li>
+            <a href="cart.html">Cart (<span id="cart-count">0</span>)</a>
+          </li>
+          <li><a href="checkout.html">Checkout</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Search and Filters Section -->
+    <section class="search-filters">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Search for products..."
+      />
+      <select id="category-filter">
+        <option value="">All Categories</option>
+        <option value="electronics">Electronics</option>
+        <option value="clothing">Clothing</option>
+        <option value="books">Books</option>
+      </select>
+      <select id="sort-filter">
+        <option value="">Sort by</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+      </select>
+    </section>
+
+    <!-- Product Grid -->
+    <section class="product-grid" id="product-grid">
+      <!-- Products will be dynamically inserted here using JS -->
+    </section>
+
+    <!-- Pagination -->
+    <section class="pagination" id="pagination">
+      <!-- Pagination will be dynamically inserted here using JS -->
+    </section>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>
