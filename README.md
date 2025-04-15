@@ -21,10 +21,7 @@ An interactive, responsive ecommerce product page built using **HTML**, **CSS**,
 - **HTML5** – Semantic and accessible structure
 - **CSS3** – Custom styling with Flexbox layout
 - **Vanilla JavaScript** – DOM manipulation and event handling for interactivity
-
----
-
-
+  
 ---
 
 ## 📌 Learning Objectives
