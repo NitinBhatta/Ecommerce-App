@@ -67,8 +67,6 @@ Aspiring Full Stack Developer
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
 *This is a self-built project to demonstrate my front-end development skills using HTML, CSS (Flexbox), and JavaScript. It is part of my portfolio to showcase to potential employers.*
 
 
