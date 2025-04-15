@@ -47,15 +47,6 @@ This project is deployed using **GitHub Pages**.
 
 ---
 
-## 🙋‍♂️ Author
-
-**Nitin Bhatta**  
-Aspiring Full Stack Developer  
-- GitHub: [@nitinbhatta](https://github.com/nitinbhatta)
-- LinkedIn: [linkedin.com/in/nitinbhatta](https://linkedin.com/in/nitinbhatta)
-
----
-
 ## 📌 Future Improvements
 
 - Add product API integration (to load dynamic products)
