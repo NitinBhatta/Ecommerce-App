@@ -2,8 +2,6 @@
 
 An interactive, responsive ecommerce product page built using **HTML**, **CSS**, and **JavaScript**. This project replicates a modern shopping experience with real-time interactivity, mobile-friendly design, and smooth UI transitions — all without using any external libraries or frameworks.
 
-🔗 **Live Preview**: [Click here to view the website](https://nitinbhatta.github.io/Ecommerce-App/)
-
 ---
 
 ## 🚀 Features
